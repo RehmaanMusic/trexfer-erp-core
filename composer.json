@@ -12,224 +12,224 @@
             "type": "path",
             "url": "../ZerpPackages/restaurant",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/google-captcha",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/aiassistant",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/landing-page",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/hrm",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/paypal",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/product-service",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/pos",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/stripe",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/contract",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/taskly",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/zoom-meeting",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/support-ticket",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/account",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/lead",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/recruitment",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/performance",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/timesheet",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/training",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/budget-planner",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/calendar",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/double-entry",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/form-builder",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/goal",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/quotation",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/telegram",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/twilio",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/webhook",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/slack",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/google-meet",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/jitsi",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         },
         {
             "type": "path",
             "url": "../ZerpPackages/real-estate",
             "options": {
-                "symlink": true
+                "symlink": false
             }
         }
     ],
