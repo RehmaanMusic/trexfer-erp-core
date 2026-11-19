@@ -122,7 +122,7 @@ export default function AuthSimpleLayout({
                     {/* Footer */}
                     <div className="text-center mt-6">
                             <div className="inline-flex items-center space-x-2 bg-white dark:bg-slate-800/80 backdrop-blur-sm rounded-md px-4 py-2 border border-gray-200 dark:border-slate-700">
-                                <p className="text-sm text-gray-500 dark:text-gray-400">{settings.footerText || `© ${new Date().getFullYear()} Zerp. All rights reserved.`}</p>
+                                <p className="text-sm text-gray-500 dark:text-gray-400">{settings.footerText || `© ${new Date().getFullYear()} Trexfer ERP. All rights reserved.`}</p>
                             </div>
                             <PoweredByZerp />
                     </div>
