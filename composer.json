@@ -87,13 +87,6 @@
         },
         {
             "type": "path",
-            "url": "../ZerpPackages/zoom-meeting",
-            "options": {
-                "symlink": false
-            }
-        },
-        {
-            "type": "path",
             "url": "../ZerpPackages/support-ticket",
             "options": {
                 "symlink": false
@@ -291,8 +284,7 @@
         "zerp/timesheet": "@dev",
         "zerp/training": "@dev",
         "zerp/twilio": "@dev",
-        "zerp/webhook": "@dev",
-        "zerp/zoom-meeting": "@dev"
+        "zerp/webhook": "@dev"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.9",
