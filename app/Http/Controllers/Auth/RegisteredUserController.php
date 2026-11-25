@@ -68,6 +68,11 @@ class RegisteredUserController extends Controller
 
             User::CompanySetting($user->id);
             User::MakeRole($user->id);
+            try {
+                (new \Database\Seeders\PakistanDefaultsSeeder())->run($user->id);
+            } catch (\Throwable $e) {
+                \Illuminate\Support\Facades\Log::warning('Pakistan defaults seeder failed', ['user_id' => $user->id, 'error' => $e->getMessage()]);
+            }
             $user->assignRole($user->type);
 
             Auth::login($user);

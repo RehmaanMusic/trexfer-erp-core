@@ -25,3 +25,4 @@ package-lock.json
 /.fleet
 /.idea
 /.vscode
+node_modules
